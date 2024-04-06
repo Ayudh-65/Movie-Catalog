@@ -146,7 +146,7 @@ h1 {
 
 .movie:hover .poster{
   height: 100%;
-  opacity: 0.6;
+  opacity: 0.45;
 }
 
 .movie:hover .foot {
