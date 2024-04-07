@@ -158,6 +158,10 @@ h1 {
     padding: 4rem 2rem;
   }
 
+  h1 {
+    font-size: 2.8rem;
+  }
+
   .search {
     padding: 1rem 1.75rem;
     width: 100%;
@@ -179,7 +183,7 @@ h1 {
   }
 
   h1 {
-    font-size: 2.4rem;
+    font-size: 2rem;
   }
 
   .container {
